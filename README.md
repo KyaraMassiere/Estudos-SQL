@@ -1,44 +1,60 @@
- # 🗄️ Meus Estudos de SQL e Banco de Dados
+# 🗄️ Estudos e Práticas de SQL
 
-Este repositório é dedicado ao registro do meu aprendizado prático em SQL. Aqui concentro meus exercícios de lógica de dados e manipulação de bancos, unindo a teoria literária com cursos técnicos.
+![Status](https://img.shields.io/badge/Status-Em_Desenvolvimento-yellow)
+![Database](https://img.shields.io/badge/Banco_de_Dados-MySQL-blue)
+![Foco](https://img.shields.io/badge/Objetivo-Transição_de_Carreira-green)
 
-## 🚀 Objetivo
-Dominar a linguagem SQL (MySQL) para estruturação e consulta de dados, criando uma base sólida para minha transição de carreira para a área de tecnologia.
+## 📝 Sobre o Repositório
+Este repositório é dedicado ao registro da minha jornada no mundo dos bancos de dados relacionais. Aqui documento meus scripts, exercícios de modelagem e consultas desenvolvidas para fortalecer minha base técnica em **Gestão de TI**.
 
-## 📂 Organização do Repositório
+Atualmente, foco no domínio do **MySQL Workbench** e na compreensão da estrutura lógica de dados.
 
-* **/Livro-Use-a-Cabeca**: Scripts práticos baseados nos capítulos do livro **"Use a Cabeça! SQL"**. Focado em entender a base do SQL de forma lúdica e direta.
-* **/Alura**: Desafios e projetos desenvolvidos durante os cursos da plataforma **Alura**, focando em boas práticas e comandos avançados.
+## 📚 Fontes de Estudo
+Os códigos e projetos aqui foram desenvolvidos com base nos seguintes materiais:
+* **Livro: Use a Cabeça! SQL** (Lynn Beighley)
+* **Formação Consultas com MySQL** (Alura)
+* **Curso Técnico em Desenvolvimento de Sistemas** (Senac)
 
-## 🛠️ Tecnologias e Ferramentas
-* **Banco de Dados:** MySQL Server 8.0
-* **Interface:** MySQL Workbench
-* **Versionamento:** Git & GitHub
+## 🚀 Tópicos e Progresso
+Aqui listo os conceitos de banco de dados que estou praticando:
 
-## 📈 Roadmap de Aprendizado
-- [x] Configuração de Ambiente e Conexão Local
-- [x] Criação de Databases e Tabelas (DDL)
-- [x] Inserção de dados e tipos de campos (DML)
-- [ ] Consultas com filtros (WHERE, LIKE, BETWEEN)
-- [ ] Relacionamentos e Joins
+- [x] **Configuração de Ambiente** (MySQL Workbench & GitHub)
+- [x] **DDL - Definição de Dados** (CREATE, DROP, ALTER)
+- [x] **DML - Manipulação de Dados** (INSERT, UPDATE, DELETE) 🚧
+- [ ] **DQL - Consultas de Dados** (SELECT, WHERE, ORDER BY)
+- [ ] **Relacionamentos e Chaves** (Primary Key & Foreign Key) 🚧
+- [ ] **Joins e Uniões de Tabelas**
+- [ ] **Administração de Usuários e Segurança**
+
+## 📂 Como está organizado
+* `/Livro-Use-a-Cabeca`: Exercícios e desafios baseados nos capítulos do livro.
+* `/Alura-Cursos`: Projetos e scripts das formações práticas da Alura.
+* `/Projetos-Pessoais`: Modelagens próprias (ex: Banco para Escola de Idiomas).
+
+## 🛠️ Ferramentas Utilizadas
+* **MySQL Workbench**: Editor principal para desenvolvimento de scripts.
+* **GitHub Desktop**: Para versionamento e organização do portfólio.
 
 ---
-## 🖋️ Autora
+
+## ✒️ Autora
 
 <table>
   <tr>
     <td align="center">
       <a href="https://github.com/KyaraMassiere">
-        <img src="https://github.com/KyaraMassiere.png" width="100px;" alt="Foto da Kyara"/><br>
-        <sub><b>Kyara Massiere</b></sub>
+        <img src="https://github.com/KyaraMassiere.png" width="100px;" alt="Foto de Perfil de Kyara"/><br>
+        <sub>
+          <b>Kyara Massiere</b>
+        </sub>
       </a>
     </td>
     <td>
-      💼 <b>Profissão:</b> Professora de Espanhol<br>
-      🎓 <b>Estudando:</b><br>
+      <b>💼 Profissão:</b> Professora de Espanhol<br>
+      <b>🎓 Estudando:</b><br>
       • Téc. em Des. de Sistemas (Senac)<br>
       • Gestão da Tecnologia da Informação<br>
-      🌱 <b>Foco Atual:</b> SQL, Python & Transição de Carreira
+      <b>🌱 Foco Atual:</b> SQL, Gestão Ágil & Transição de Carreira
     </td>
   </tr>
 </table>
